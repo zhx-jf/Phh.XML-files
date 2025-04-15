@@ -1,5 +1,5 @@
-<product>
-  <product>
+<product\n>
+  <product\n>
     <category-id>393</category-id>
     <category-name>Bathroom accessories</category-name>
     <barcode>4403908153414</barcode>
@@ -29,5 +29,5 @@ https://img.fruugo.com/product/4/61/1852324614_max.jpg</image-url>
     <length>0.5</length>
     <height>0.5</height>
     <width>0.4</width>
-  </product>
-</product>
+  </product\n>
+</product\n>
